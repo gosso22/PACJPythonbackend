@@ -1,0 +1,22 @@
+{
+    "TypeVariableName.java": 7,
+    "NameAllocator.java": 56,
+    "ClassName.java": 82,
+    "JavaFile.java": 54,
+    "TypeSpec.java": 65,
+    "s1774416.java": 7,
+    "WildcardTypeName.java": 6,
+    "CodeWriter.java": 67,
+    "CodeBlock.java": 48,
+    "s1662214.java": 74,
+    "Util.java": 77,
+    "ParameterSpec.java": 39,
+    "LineWrapper.java": 97,
+    "MethodSpec.java": 19,
+    "ParameterizedTypeName.java": 54,
+    "FieldSpec.java": 94,
+    "ArrayTypeName.java": 87,
+    "AnnotationSpec.java": 94,
+    "TypeName.java": 76,
+    "s2.java": 34
+}
